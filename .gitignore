@@ -1,0 +1,9 @@
+.idea
+GoPath.iml
+bin
+pkg
+*.pyc
+src/school_crawler/bin
+src/school_crawler/include
+src/school_crawler/lib
+src/school_crawler/local

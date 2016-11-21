@@ -1,7 +1,6 @@
 .idea
 GoPath.iml
 bin
-pkg
 *.pyc
 src/school_crawler/bin
 src/school_crawler/include
